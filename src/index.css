@@ -1,0 +1,19 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(145, 143, 143);
+  }
+  :root {
+    --primary-color: #007bff;
+    --primary-color-hover: #0056b3;
+    --background-color: #f9f9f9;
+    --border-color: #ccc;
+    --text-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --font-family: 'Roboto', sans-serif;
+  }
+  
