@@ -17,11 +17,11 @@ npm install
 npm start
 
 ### 4. project structure
-your-app/
-├── public/
-├── src/
-│   ├── App.js
-│   ├── index.js
-├── .gitignore
-├── package.json
-├── README.md
+your-app/  
+├── public/  
+├── src/  
+│   ├── App.js  
+│   ├── index.js  
+├── .gitignore  
+├── package.json  
+├── README.md  
